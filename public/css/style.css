@@ -1,0 +1,73 @@
+body{
+    background-color: #fbf7eb;
+}
+
+.bgNav {
+    background: #fbf7eb;
+  }
+
+.w-95{
+    max-width: 95%;
+}
+
+.box{
+    border-radius: 50px;
+    border-style: none;
+}
+
+.box:hover{
+    border-radius: 50px;
+    border-style: solid;
+    border-color: black;
+}
+
+.bgAmarilloRosa{
+    background: linear-gradient(#fbf7eb, #fbf7eb);
+}
+
+.text-black{
+    color: black;
+}
+
+.mb--2{
+    margin-bottom: -2em;
+}
+.mt--2{
+    margin-top: -2em;
+}
+
+.pZW{
+    font-size: 3em;
+    font-weight: bold;
+    margin: auto;
+}
+
+.tSmall{
+    font-size: 1.5em;
+}
+
+.tBig{
+    font-size: 2em;
+}
+
+.pExpo{
+    font-size: 6em;
+    font-weight: bold;
+    margin: auto;
+}
+
+.blkbtn{
+    background-color:#588dfd ;
+    border-radius: 25px;
+    text-decoration: none !important;
+}
+
+.roundimg{
+    border-radius: 50px;
+}
+
+.current{
+    background-color: black;
+    color: white !important;
+    border-radius: 25px;
+}
